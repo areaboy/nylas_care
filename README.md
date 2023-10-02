@@ -28,7 +28,7 @@ This Application is written with PHP, Mysql Database, Curl, Ajax, Jquery, Bootst
 It is time to test the app.
 
 
-7.) Callup Browser at **http://localhost/nylas_care/index.ph**p and the application will start running. Thanks.. 
+7.) Callup Browser at **http://localhost/nylas_care/index.php** and the application will start running. Thanks.. 
 
 
 
